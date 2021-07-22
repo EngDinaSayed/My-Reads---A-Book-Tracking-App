@@ -5,8 +5,8 @@ This is project #1 in Advanced Web Development Udacity Track. An application for
 To get started developing right away:
 
 * install all project dependencies with `npm install`
-* start the development server with `npm install react-router-dom`
-* start the development server with `npm install prop-types`
+* install React Router DOM with `npm install react-router-dom`
+* install PropTypes library with `npm install prop-types`
 * start the development server with `npm start`
 
-Please ignore BooksOldVersion.js & SearchOldVersion.js as they are for previous implementations
+Please ignore BooksOldVersion.js & SearchOldVersion.js as they are old versions for previous implementations
